@@ -1,0 +1,4 @@
+Usage: ./getopt options [ inputfile ...]
+  -h 	--help			Display this usage information
+  -o   --output filename	Write output to file
+  -v  	--verbose		Print verbose messages.
